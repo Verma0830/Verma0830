@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:001a00,60:003d00,100:0d0d0d&height=280&section=header&text=RISHABH%20VERMA&fontSize=78&fontColor=00FF41&animation=twinkling&desc=root%40hcltech%3A~%23%20Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descSize=17&descColor=39FF14&descAlignY=78&stroke=00FF41&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:001a00,100:0d0d0d&height=260&text=RISHABH%20VERMA&fontSize=78&fontColor=00FF41&animation=twinkling&desc=root%40hcltech%3A~%23%20Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descSize=17&descColor=39FF14&descAlignY=78&stroke=00FF41&strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -376,7 +376,7 @@ Comprehensive DFIR toolkit covering disk imaging, memory forensics, registry ana
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003300,100:0d0d0d&height=140&section=footer&text=Stay+Curious.+Stay+Paranoid.&fontSize=24&fontColor=00ff41&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:001a00,100:0d0d0d&height=100&text=Stay+Curious.+Stay+Paranoid.&fontSize=22&fontColor=00ff41&animation=twinkling&fontAlignY=55" width="100%"/>
 
 </div>
 
