@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a00,50:00ff41,75:001a00,100:000000&height=220&section=header&text=RISHABH%20VERMA&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=58&descColor=7ee787" />
+</div>
+
+<table>
+<tr>
+<td bgcolor="#0d1117">
+
 # 👨‍💻 RISHABH VERMA
 
 ### `root@hcltech:~# Cybersecurity Analyst | Ethical Hacker | CTF Player`
@@ -141,7 +149,12 @@
 
 ---
 
+</td>
+</tr>
+</table>
+
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a00,50:00ff41,75:001a00,100:000000&height=120&section=footer" />
 
 ### `Stay Curious. Stay Paranoid.`
 
