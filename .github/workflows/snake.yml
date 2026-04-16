@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+ 
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Runs every 12 hours automatically
+  workflow_dispatch:           # Lets you trigger it manually too
+  push:
+    branches:
+      - main
+ 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+ 
+    steps:
+      - name: Generate Snake Animation (Dark Theme)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Verma0830
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+ 
+      - name: Push Output to `output` Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
