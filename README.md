@@ -1,163 +1,296 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a00,50:00ff41,75:001a00,100:000000&height=220&section=header&text=RISHABH%20VERMA&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=58&descColor=7ee787" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a2a0a,100:0d0d0d&height=250&text=RISHABH%20VERMA&fontSize=72&fontColor=00FF41&animation=twinkling&desc=root%40hcltech%3A~%23%20Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descSize=16&descColor=39FF14&descAlignY=75&fontAlignY=45" width="100%"/>
+
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=600&height=40&lines=%5B%2B%5D+3x+Microsoft+Certified+%E2%80%94+SC-100+Expert+%7C+SC-200+%7C+SC-900;%5B%2B%5D+HackTheBox+Top+5%25+Global+%7C+50%2B+CTF+Solves+%F0%9F%94%A5;%5B%2B%5D+SOC+Analyst+%40+HCLTech+%7C+Red+%26+Blue+Team;%5B%2B%5D+Open+to+Opportunities+%E2%9C%85" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-verma-6338bb2b5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-rishabh-verma.vercel.app)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rishisunar151)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🖥️ whoami
+
+```bash
+┌──(rishabh㉿hcltech)-[~]
+└─$ cat /etc/profile
+
+  NAME     →  Rishabh Verma
+  ROLE     →  Cybersecurity Analyst @ HCLTech, Noida
+  DOMAIN   →  Networking & Cybersecurity
+  DEGREE   →  BCA → SASTRA University '26
+  CERTS    →  SC-100 (Expert) · SC-200 (Associate) · SC-900 (Fundamentals)
+  CTF      →  HackTheBox Top 5% Global · 50+ Solves
+  SKILLS   →  Red Team · Blue Team · OSINT · DFIR · Cloud Security
+  STATUS   →  Open to Opportunities ✅
+
+[✔] Identity verified. No vulnerabilities found. All patches applied.
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 Microsoft Certifications
+
+<div align="center">
+
+| 🏆 SC-100 · Expert | 🥈 SC-200 · Associate | 🥉 SC-900 · Fundamentals |
+|:---:|:---:|:---:|
+| **Cybersecurity Architect Expert** | **Security Operations Analyst** | **Security, Compliance & Identity** |
+| Highest Level Certification | SOC & SIEM Specialist | Foundation Badge |
+| `January 2026` | `January 2026` | `December 2025` |
+
+> ⚡ **3 Microsoft Security certifications achieved in under 60 days**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+**🔴 Offensive**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4479A1?style=flat-square&logo=nmap&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=flat-square&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-8B0000?style=flat-square&logoColor=white)
+
+**🔵 Defensive**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/MS%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![AWS GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-6A0DAD?style=flat-square&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-2E4057?style=flat-square&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-1A1A2E?style=flat-square&logoColor=white)
+
+**⚙️ Dev & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 CTF Battlefield
+
+<div align="center">
 
 <table>
 <tr>
-<td bgcolor="#0d1117">
+<td align="center" width="50%">
 
-# 👨‍💻 RISHABH VERMA
+### 🟢 HackTheBox
 
-### `root@hcltech:~# Cybersecurity Analyst | Ethical Hacker | CTF Player`
+[![HTB](https://img.shields.io/badge/Rank-Top%205%25%20Global-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
 
-<div align="center">
+**Top 5% Globally 🔥**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+%40+HCLTech;Networking+%26+Cybersecurity+Specialist;Microsoft+SC-100+%7C+SC-200+%7C+SC-900;HackTheBox+Top+5%25+%7C+50%2B+CTF+Solves;Red+Team+%7C+Blue+Team+Practitioner;Open+to+SOC+%7C+Security+Research+Roles" />
+`Active Directory` `Web Exploitation` `Linux PrivEsc`
 
-<br>
+> Replace `YOUR_HTB_ID` in the URL with your numeric profile ID
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=00ff41\&style=flat-square)
-![](https://img.shields.io/badge/HCLTech-Analyst-0066ff?style=flat-square)
-![](https://img.shields.io/badge/HackTheBox-Top%205%25-9fef00?style=flat-square)
-![](https://img.shields.io/badge/TryHackMe-50%2B%20Solves-red?style=flat-square)
-![](https://img.shields.io/badge/Microsoft-3x%20Security%20Certified-blue?style=flat-square)
+</td>
+<td align="center" width="50%">
 
-</div>
+### 🟦 TryHackMe
 
----
+[![THM](https://img.shields.io/badge/Solves-50%2B-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rishisunar151)
 
-# 🖥️ `cat profile.json`
+<a href="https://tryhackme.com/p/rishisunar151"><img src="https://tryhackme-badges.s3.amazonaws.com/rishisunar151.png" height="80" /></a>
 
-```json
-{
-  "name": "Rishabh Verma",
-  "role": "Analyst @ HCLTech",
-  "domain": "Networking & Cybersecurity",
-  "education": "BCA → SASTRA University",
-  "specialization": ["SOC", "Threat Detection", "Pentesting", "DFIR"],
-  "certifications": ["SC-100", "SC-200", "SC-900"],
-  "ctf": "HackTheBox Top 5% | 50+ Solves",
-  "status": "Open to Opportunities"
-}
-```
-
----
-
-# ⚔️ Security Arsenal
-
-## 🔴 Offensive Security
-
-![Kali](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge\&logo=kalilinux)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
-![Burp](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
-![BloodHound](https://img.shields.io/badge/BloodHound-red?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-Top_10-black?style=for-the-badge)
-
-## 🔵 Defensive Security
-
-![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge\&logo=splunk)
-![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-blue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-red?style=for-the-badge)
-![Autopsy](https://img.shields.io/badge/Autopsy-1f6feb?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-darkblue?style=for-the-badge)
-
-## ⚙️ Dev & Automation
-
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge)
-![AWS CLI](https://img.shields.io/badge/AWS_CLI-orange?style=for-the-badge)
-
----
-
-# 🏆 Certifications
-
-* 🥇 **SC-100 — Microsoft Cybersecurity Architect Expert**
-* 🥈 **SC-200 — Security Operations Analyst Associate**
-* 🥉 **SC-900 — Security, Compliance & Identity Fundamentals**
-
----
-
-# 🎯 CTF Battlefield
-
-* 🟢 **HackTheBox → Top 5% globally**
-* 🔵 **TryHackMe → 50+ successful room solves**
-* 🧠 Focus: **Active Directory | Web Exploitation | Linux PrivEsc | DFIR | SOC**
-
----
-
-# 🚀 Featured Projects
-
-## 🕵️ Enterprise Network Red Team
-
-* Simulated advanced threat campaigns across segmented enterprise environments
-* Domain compromise via **AS-REP roasting + BloodHound pathing**
-* Identified critical privilege escalation chains
-
-## 📊 SIEM Threat Detection Dashboard
-
-* Built custom **Splunk & Sentinel detections**
-* MITRE ATT&CK aligned alert logic
-* Improved lab MTTD by **40%**
-
-## 🌐 Web App Vulnerability Scanner
-
-* Automated **OWASP Top 10 checks**
-* SQLi, XSS, CSRF, IDOR detection
-* CI/CD deployment gate integration
-
-## ☁️ AWS Cloud Security Hardening
-
-* IAM least privilege enforcement
-* GuardDuty + CloudTrail automation
-* CIS Benchmark aligned hardening
-
-## 🔬 Digital Forensics Toolkit
-
-* Memory analysis + disk imaging workflows
-* YARA signature integration
-* Insider threat & ransomware use cases
-
----
-
-# 📊 GitHub Intel
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=FFFFFF&hide_border=true" />
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=for-the-badge)](YOUR_HTB)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](YOUR_THM)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
+`SOC` `Forensics` `Privilege Escalation`
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🕵️ Enterprise Network Red Team Engagement</b> — <code>Complete</code></summary>
+<br/>
+
+> Full-scope red team engagement simulating a real-world APT. Identified **critical vulnerabilities across 3 network segments** including privilege escalation chains and AD misconfigurations.
+
+**Key Finding:** Domain compromise via AS-REP roasting + BloodHound attack path analysis.
+
+**Impact:** Comprehensive pentest report delivered with remediation roadmap.
+
+`Metasploit` `BloodHound` `Mimikatz` `Nmap` `Kali Linux`
+
+</details>
+
+<details>
+<summary><b>📊 SIEM Threat Detection Dashboard</b> — <code>Active</code></summary>
+<br/>
+
+> Custom Splunk dashboard with **real-time automated alerting** for lateral movement, data exfiltration, and anomalous logins — fully mapped to MITRE ATT&CK TTPs.
+
+**Impact:** ~40% reduction in mean-time-to-detect (MTTD) in simulated lab environments.
+
+`Splunk` `Python` `MITRE ATT&CK` `KQL` `Azure Sentinel`
+
+</details>
+
+<details>
+<summary><b>☁️ AWS Cloud Security Hardening</b> — <code>Complete</code></summary>
+<br/>
+
+> End-to-end CIS Benchmark audit with IAM least-privilege enforcement, automated GuardDuty alerting, and full CloudTrail audit pipeline.
+
+**Outcome:** Full CIS AWS Benchmark Level 2 compliance achieved.
+
+`AWS` `Terraform` `GuardDuty` `CloudTrail` `IAM`
+
+</details>
+
+<details>
+<summary><b>🌐 Web App Vulnerability Scanner</b> — <code>Complete</code></summary>
+<br/>
+
+> Automated Python tool detecting the **full OWASP Top 10** — SQLi, XSS, CSRF, IDOR, SSRF. Designed for CI/CD pipeline pre-deployment gates.
+
+**Accuracy:** 92% detection rate across test environments.
+
+`Python` `Burp Suite` `ZAPROXY` `OWASP` `Requests`
+
+</details>
+
+<details>
+<summary><b>🤖 CTF Automation Framework</b> — <code>Active</code></summary>
+<br/>
+
+> End-to-end recon → enumeration → exploit pipeline with custom modules per challenge category. **Directly responsible for HTB Top 5% ranking.**
+
+`Python` `Bash` `pwntools` `HackTheBox`
+
+</details>
+
+<details>
+<summary><b>🔬 Digital Forensics Investigation Toolkit</b> — <code>Complete</code></summary>
+<br/>
+
+> Comprehensive DFIR toolkit — disk imaging, memory forensics, registry analysis, artifact extraction. Investigated simulated ransomware & insider threat scenarios.
+
+**Built:** YARA rules for 3 ransomware family signatures.
+
+`Autopsy` `Volatility` `FTK Imager` `YARA` `Bash`
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001a00,50:00ff41,75:001a00,100:000000&height=120&section=footer" />
 
-### `Stay Curious. Stay Paranoid.`
-
-### `Threat actors fear me. Recruiters love me.`
+<img src="https://github-readme-stats.vercel.app/api?username=Verma0830&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verma0830&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6" width="49%"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Verma0830&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff4500&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=c9d1d9&dates=555555&stroke=00ff41" width="70%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Verma0830&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=001a00" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Verma0830&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Verma0830/Verma0830/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Verma0830/Verma0830/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Verma0830/Verma0830/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   Roles I'm targeting  →  SOC Analyst · Pen Tester · Red Team   ║
+║   Also open to         →  CTF Collabs · Research · Freelance    ║
+║   Response time        →  < 24 hours  ⚡                         ║
+║   Time zone            →  IST (UTC+5:30)                        ║
+║                                                                  ║
+║   [+] Threat actors fear me. Recruiters love me.                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-verma-6338bb2b5)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rishisunar151)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-rishabh-verma.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Verma0830)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a2a0a,100:0d0d0d&height=80&text=Stay%20Curious.%20Stay%20Paranoid.&fontSize=20&fontColor=00FF41&animation=twinkling&fontAlignY=55" width="100%"/>
+
+</div>
+
+<!-- You read the source. Respect. — RV, 2026 -->
