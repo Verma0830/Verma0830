@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:001a00,70:003300,100:0d0d0d&height=300&section=header&text=RISHABH%20VERMA&fontSize=90&fontColor=00FF41&animation=twinkling&desc=root%40hcltech%3A~%23%20Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descSize=18&descColor=39FF14&descAlignY=76&stroke=00FF41&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:001a00,60:003d00,100:0d0d0d&height=280&section=header&text=RISHABH%20VERMA&fontSize=78&fontColor=00FF41&animation=twinkling&desc=root%40hcltech%3A~%23%20Cybersecurity%20Analyst%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descSize=17&descColor=39FF14&descAlignY=78&stroke=00FF41&strokeWidth=1.5" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=55&lines=%24+sudo+whoami+--verbose;%5B%2B%5D+Cybersecurity+Analyst+%40+HCLTech%2C+Noida;%5B%2B%5D+3x+Microsoft+Certified+%E2%80%94+SC-900+%7C+SC-200+%7C+SC-100;%5B%2B%5D+HackTheBox+Top+5%25+%7C+50%2B+CTF+Solves;%5B%2B%5D+Red+Team+%26+Blue+Team+Practitioner;%5B%2B%5D+BCA+%E2%86%92+SASTRA+University+%2726;%5B%2B%5D+Open+to+Opportunities+%E2%9C%85" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=55&lines=%24+sudo+whoami+--verbose;%5B%2B%5D+Cybersecurity+Analyst+%40+HCLTech%2C+Noida;%5B%2B%5D+3x+Microsoft+Certified+%E2%80%94+SC-900+%7C+SC-200+%7C+SC-100;%5B%2B%5D+HackTheBox+Top+5%25+%7C+50%2B+CTF+Solves+%F0%9F%94%A5;%5B%2B%5D+Red+Team+%26+Blue+Team+Practitioner;%5B%2B%5D+BCA+%E2%86%92+SASTRA+University+%2726;%5B%2B%5D+Open+to+Opportunities+%E2%9C%85" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -112,7 +112,7 @@
 ### 🔵 Defensive Security
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/MS_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MS Sentinel](https://img.shields.io/badge/MS_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![AWS GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-6A0DAD?style=for-the-badge&logoColor=white)
@@ -170,14 +170,14 @@
 
 **Security, Compliance & Identity**
 
-🥉 *Fundamentals — Foundation Badge*
+🥉 *Foundation Badge*
 `Issued: December 2025`
 
 </td>
 </tr>
 </table>
 
-> 🔗 Verify credentials on [Microsoft Learn](https://learn.microsoft.com/en-us/users/) — 3 certs achieved in under 60 days.
+> 🔗 **3 certifications in under 60 days** — verify on [Microsoft Learn](https://learn.microsoft.com/en-us/users/)
 
 </div>
 
@@ -196,11 +196,12 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Top_5%25_Global-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
 
 ```
-Speciality : Active Directory · Web · Linux
+Specialty  : Active Directory · Web · Linux PrivEsc
 Approach   : Methodical + Aggressive
 Ranking    : Top 5% Globally 🔥
 ```
-> ⚠️ Replace `YOUR_HTB_ID` in this README with your numeric HTB profile ID to display your live badge.
+
+> ⚠️ Replace `YOUR_HTB_ID` with your numeric HTB profile ID to show your live badge.
 
 </td>
 <td align="center" width="50%">
@@ -214,7 +215,7 @@ Ranking    : Top 5% Globally 🔥
 </a>
 
 ```
-Focus   : SOC · Forensics · Privilege Esc
+Focus   : SOC · Forensics · Privilege Escalation
 Profile : tryhackme.com/p/rishisunar151
 ```
 
@@ -235,9 +236,9 @@ Profile : tryhackme.com/p/rishisunar151
 ### 🕵️ Enterprise Network Red Team Engagement
 ![Red Team](https://img.shields.io/badge/Red_Team-FF4500?style=flat-square) ![Complete](https://img.shields.io/badge/Status-Complete-00ff41?style=flat-square)
 
-Full-scope red team engagement simulating a real-world APT lifecycle — recon through exfiltration. Identified **critical vulnerabilities across 3 network segments** including privilege escalation chains and misconfigurations.
+Full-scope red team engagement simulating a real-world APT lifecycle — recon through exfiltration. Identified **critical vulnerabilities across 3 network segments** including privilege escalation chains.
 
-**Key Findings:** Domain compromise via AS-REP roasting + BloodHound path analysis.
+> **Key Finding:** Domain compromise via AS-REP roasting + BloodHound path analysis.
 
 `Metasploit` `Nmap` `BloodHound` `Kali Linux` `Mimikatz`
 
@@ -248,7 +249,7 @@ Full-scope red team engagement simulating a real-world APT lifecycle — recon t
 
 Custom Splunk dashboard with **real-time automated alerting** for lateral movement, data exfiltration, and anomalous login patterns — fully mapped to MITRE ATT&CK TTPs.
 
-**Impact:** Reduced mean-time-to-detect (MTTD) by ~40% in lab simulations.
+> **Impact:** ~40% reduction in mean-time-to-detect (MTTD) in lab simulations.
 
 `Splunk` `Python` `MITRE ATT&CK` `KQL` `Azure Sentinel`
 
@@ -259,7 +260,9 @@ Custom Splunk dashboard with **real-time automated alerting** for lateral moveme
 
 End-to-end CIS Benchmark audit with IAM least-privilege enforcement, automated **GuardDuty threat alerting**, and full CloudTrail audit logging pipeline.
 
-`AWS` `Terraform` `GuardDuty` `CloudTrail` `IAM` `S3`
+> **Outcome:** Full CIS AWS Benchmark Level 2 compliance.
+
+`AWS` `Terraform` `GuardDuty` `CloudTrail` `IAM`
 
 </td>
 <td width="50%" valign="top">
@@ -267,9 +270,9 @@ End-to-end CIS Benchmark audit with IAM least-privilege enforcement, automated *
 ### 🌐 Web Application Vulnerability Scanner
 ![Web](https://img.shields.io/badge/Web_Security-FF6633?style=flat-square) ![Complete](https://img.shields.io/badge/Status-Complete-00ff41?style=flat-square)
 
-Automated Python tool that detects the entire **OWASP Top 10** — SQLi, XSS, CSRF, IDOR, SSRF, and more. Designed for pre-deployment security gates in CI/CD pipelines.
+Automated Python tool detecting the **full OWASP Top 10** — SQLi, XSS, CSRF, IDOR, SSRF. Built for pre-deployment security gates in CI/CD pipelines.
 
-**Accuracy:** 92% detection rate across test environments.
+> **Accuracy:** 92% detection rate across test environments.
 
 `Python` `Burp Suite` `OWASP` `ZAPROXY` `Requests`
 
@@ -278,16 +281,20 @@ Automated Python tool that detects the entire **OWASP Top 10** — SQLi, XSS, CS
 ### 🤖 CTF Automation Framework
 ![Automation](https://img.shields.io/badge/Automation-7B42BC?style=flat-square) ![Active](https://img.shields.io/badge/Status-Active-00ff41?style=flat-square)
 
-End-to-end recon → enumeration → exploit pipeline for CTF competitions. Custom modules per challenge category. **Directly responsible for achieving HTB Top 5% ranking.**
+End-to-end recon → enumeration → exploit pipeline with custom modules per challenge category. **Directly responsible for achieving HTB Top 5% ranking.**
 
-`Python` `Bash` `HackTheBox` `TryHackMe` `pwntools`
+> **Result:** Consistent top finishes in team CTF events.
+
+`Python` `Bash` `pwntools` `HackTheBox` `TryHackMe`
 
 ---
 
 ### 🔬 Digital Forensics Investigation Toolkit
 ![Forensics](https://img.shields.io/badge/DFIR-9B59B6?style=flat-square) ![Complete](https://img.shields.io/badge/Status-Complete-00ff41?style=flat-square)
 
-Comprehensive DFIR toolkit covering disk imaging, memory forensics, registry analysis, and artifact extraction. Used to simulate and investigate **ransomware deployment and insider threat scenarios**.
+Comprehensive DFIR toolkit covering disk imaging, memory forensics, registry analysis, and artifact extraction for **ransomware and insider threat simulation** scenarios.
+
+> **Built:** YARA rules for 3 ransomware family signatures.
 
 `Autopsy` `Volatility` `FTK Imager` `Bash` `YARA`
 
@@ -351,8 +358,8 @@ Comprehensive DFIR toolkit covering disk imaging, memory forensics, registry ana
 │   Also open to :  CTF Collabs · Security Research · Freelance   │
 │                                                                  │
 │   Response time:  < 24 hours ⚡                                  │
-│   Availability :  Open ✅                                        │
 │   Time Zone    :  IST (UTC+5:30) 🕐                              │
+│   Availability :  Open ✅                                        │
 │                                                                  │
 │   [+] Threat actors fear me. Recruiters love me.                │
 │                                                                  │
@@ -367,7 +374,7 @@ Comprehensive DFIR toolkit covering disk imaging, memory forensics, registry ana
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-rishabh-verma.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Verma0830)
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003300,100:0d0d0d&height=140&section=footer&text=Stay+Curious.+Stay+Paranoid.&fontSize=24&fontColor=00ff41&animation=twinkling&fontAlignY=65" width="100%"/>
 
